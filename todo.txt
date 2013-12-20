@@ -1,0 +1,6 @@
+todo list
+- resize images with python
+  resize images (max 800x600) into "image_large"
+  resize images (max 200x...) into "image_thumb"
+  recognize if image is already small
+  recognize rotation 800x600 vs 600x800
